@@ -1,0 +1,15 @@
+==Flex iniciado==
+
+(comentario)
+(palavra reservada, int) (identificador)(atribuição)(integer)(ponto e virgula)
+(palavra reservada, float) (identificador)(atribuição)(decimal)(ponto e virgula)
+
+(palavra reservada, função principal)
+	(palavra reservada, while) (identificador)(diferente)(identificador) (palavra reservada, ordem 
+	(palavra reservada, inicio de bloco) 
+		(palavra reservada, if) (identificador)>(identificador) (palavra reservada, then)
+			(identificador)(atribuição)(identificador)(operador, 'subtração')(identificador)(ponto e virgula)
+		(palavra reservada, else)
+			(identificador)(atribuição)(identificador)(operador, 'subtração')(identificador)(ponto e virgula)
+	(palavra reservada, fim de block)
+	(palavra reservada, print) (identificador)(ponto e virgula)

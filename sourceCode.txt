@@ -1,0 +1,14 @@
+//Greatest Common Divisor
+
+INTEGER X:=8;
+DECIMAL y:=12.9;
+
+CATAPOBIO
+	WHILE X!=Y DO
+	BEGIN 
+		IF X>Y THEN
+			X:=X-Y;
+		ELSE
+			Y:=Y-X;
+	END
+	PRINT X;
